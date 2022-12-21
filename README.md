@@ -6,6 +6,6 @@
 7. Arithmatic Operators
 8. Calculator
 9. TypeCasting
-11. Strings
-12. String Slicing
-13. String Methods
+10. Strings
+11. String Slicing
+12. String Methods
