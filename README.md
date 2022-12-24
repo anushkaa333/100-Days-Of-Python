@@ -6,6 +6,12 @@
 7. Arithmatic Operators
 8. Calculator
 9. TypeCasting
-10. Strings
-11. String Slicing
-12. String Methods
+11. Strings
+12. String Slicing
+13. String Methods
+14. If Else
+15. TimeStamp
+16. Match Case
+17. For Loop
+18. While - Do While
+19. Break, Continue
