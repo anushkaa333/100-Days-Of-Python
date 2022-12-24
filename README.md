@@ -6,6 +6,7 @@
 7. Arithmatic Operators
 8. Calculator
 9. TypeCasting
+10.
 11. Strings
 12. String Slicing
 13. String Methods
@@ -15,3 +16,5 @@
 17. For Loop
 18. While - Do While
 19. Break, Continue
+20. Funtions
+21. Functions Args Types
