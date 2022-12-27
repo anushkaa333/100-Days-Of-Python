@@ -18,3 +18,5 @@
 19. Break, Continue
 20. Funtions
 21. Functions Args Types
+22. List
+23. List Methods
