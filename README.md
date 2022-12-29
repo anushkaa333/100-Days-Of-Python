@@ -20,3 +20,9 @@
 21. Functions Args Types
 22. List
 23. List Methods
+24. Tuple
+25. Tuple Methos
+26. Timestamp
+27.
+28. f-strings
+29. Docstrings
