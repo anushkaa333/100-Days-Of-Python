@@ -26,3 +26,6 @@
 27.
 28. f-strings
 29. Docstrings
+30. Recursion
+31. Sets
+32. Set Methods
