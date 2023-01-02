@@ -29,3 +29,6 @@
 30. Recursion
 31. Sets
 32. Set Methods
+33. Dictionary
+34. Dictionary Methods
+35. Else in for loop
