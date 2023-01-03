@@ -32,3 +32,4 @@
 33. Dictionary
 34. Dictionary Methods
 35. Else in for loop
+36. Exception Handling
