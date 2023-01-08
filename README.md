@@ -36,3 +36,5 @@
 37. Finally Keyword
 38. Custom errors through raise keyword
 39. KBC using List - Ex.3
+40.
+41. ShortHand of ifelse
