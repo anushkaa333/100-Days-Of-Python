@@ -1,0 +1,49 @@
+
+1] Create virtual env named myenv
+
+PS H:\> python -m venv myenv
+
+
+2] Activate virtual env using in powershell (In terminal = virtal_env_name/Scripts/Activate.bat)
+PS H:\> myenv/Scripts/Activate.ps1
+
+3] If get this error, follow step 4) 
+myenv/Scripts/Activate.ps1 : File H:\myenv\Scripts\Activate.ps1 cannot be loaded because running scripts is disabled on this system. For more information, see 
+about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:1
++ myenv/Scripts/Activate.ps1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException  
+    + FullyQualifiedErrorId : UnauthorizedAccess
+
+4]
+PS H:\> Get-ExecutionPolicy
+Restricted
+PS H:\> Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted -Force
+
+5] Close visual studio code reopen and type
+PS H:\>myenv/Scripts/Activate.ps1
+
+6]Virtual env will be activated 
+(myenv) PS H:\> 
+
+7] Upgrade pip using
+
+ pip install --upgrade pip
+
+8] To display installed packages in curr venv
+(myenv) PS H:\> pip freeze
+lxml==4.9.2
+numpy==1.24.1
+pandas==1.5.2
+python-dateutil==2.8.2
+pytz==2022.7.1
+six==1.16.0
+
+9] Output the installed packages in file named requirement.txt
+
+(myenv) PS H:\> pip freeze > requirement.txt
+
+10] Install the packages listed to the requirement.txt file in other venev
+
+ pip install -r requirement.txt
