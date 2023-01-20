@@ -42,3 +42,6 @@
 43. Virtual Environment
 44. Import
 45. Import diff modules from other file
+46. os module - file not completed
+47. Encrypt ,Decrypt - Ex.4
+48. Global Keyword
