@@ -1,4 +1,24 @@
 
+
+import random
+import string
+
+
+def encrypt(user1, key):
+    user11 = user1.split(" ")
+    for i in user11:
+        if len(i)<=3:
+            s = i[::-1]
+        else:
+            s1 = random.choices(string.ascii_letters,key)
+            s2 = i[1:]
+            s3 = i[0]
+            s4 = random.choices(string.ascii_letters,key)
+            s = s1 + s2 + s3+ s4
+            return s
+            
+
+
 while True:
     print("Encrypt - Decrypt program")
     user = int(input("1. Encrypt  2.Decrypt  3.Quit"))
