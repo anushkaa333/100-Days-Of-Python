@@ -47,3 +47,4 @@
 48. Global Keyword
 49. File IO - Write, Append, Read
 50. readline, writelines, writelines with \n
+51. tell, seek, truncate, seek(0)
