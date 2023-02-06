@@ -50,3 +50,5 @@
 51. tell, seek, truncate, seek(0)
 52. Lambda Function
 53. Map, Filter, Reduce
+54. Is v/s Equal to
+55. Snake Water Gun Game - Ex.5
