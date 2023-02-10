@@ -52,9 +52,10 @@
 53. Map, Filter, Reduce
 54. Is v/s Equal to
 55. Snake Water Gun Game - Ex.5
-
-
-********* OOPS ***********
-56. Intro to oops
+56. Intro to OOPS
 57. Classes and Objects
 58. Constructor
+59. Decorators
+60. Getters and Setters - Not done
+61. Inheritance
+62. Access Modifires - Private, Public, Protected
