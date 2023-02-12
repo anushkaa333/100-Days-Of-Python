@@ -59,4 +59,4 @@
 60. Getters and Setters - Not done
 61. Inheritance
 62. Access Modifires - Private, Public, Protected
-65. [Static Methods]{https://www.tutorialsteacher.com/python/staticmethod-decorator}
+65. [Static Methods](https://www.tutorialsteacher.com/python/staticmethod-decorator)
