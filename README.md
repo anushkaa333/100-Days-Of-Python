@@ -62,3 +62,6 @@
 63.
 64.
 65. [Static Methods](https://www.tutorialsteacher.com/python/staticmethod-decorator)
+66. Instance and class variables
+67. Library Management System - Ex.6
+69. []()
