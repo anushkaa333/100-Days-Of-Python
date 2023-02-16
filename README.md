@@ -66,3 +66,5 @@
 67. Library Management System - Ex.6
 68.
 69. [Class Methods](https://www.tutorialsteacher.com/python/classmethod-decorator)
+70. Class Methods as alternative constructors
+71. dir(), __dict__, help methods
