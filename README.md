@@ -71,3 +71,4 @@
 72. Super Keyword
 73. Magic/Dunder Methods
 74. Method Overriding
+75. OS Module - Rename Method - Ex.7
