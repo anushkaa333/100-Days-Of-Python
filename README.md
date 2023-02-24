@@ -74,3 +74,4 @@
 75. OS Module - Rename Method - Ex.7
 76.
 77. Operator Overloading
+78. Single Inheritance
