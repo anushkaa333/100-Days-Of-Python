@@ -75,3 +75,4 @@
 76.
 77. Operator Overloading
 78. Single Inheritance
+79. Multiple Inheritance
