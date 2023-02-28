@@ -72,7 +72,7 @@
 73. Magic/Dunder Methods
 74. Method Overriding
 75. OS Module - Rename Method - Ex.7
-76.
+76. Merge all pdfs in cwd - Ex.8
 77. Operator Overloading
 78. Single Inheritance
 79. Multiple Inheritance
