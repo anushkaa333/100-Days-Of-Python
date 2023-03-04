@@ -78,3 +78,4 @@
 79. Multiple Inheritance
 80. Multilevel Inheritance
 81. Hybrid Inheritance
+82. Hierarchical inheritance
