@@ -85,7 +85,7 @@
 86.
 87.
 88. Use of win32com.client module for audio of statements to be executed  -  EX. 09
-1. [Conda error => Need to install Anaconda]{https://stackoverflow.com/questions/44515769/conda-is-not-recognized-as-internal-or-external-command}
-2. [Virtual env can be crated using pipenv, virtualenv, venev]{https://www.activestate.com/products/python/pip-tools/pip-install-virtualenv/#how-do-i-install-virtualenv}
-3. [Creating venv using conda and pip difference]{https://www.activestate.com/products/python/pip-tools/pip-install-virtualenv/#how-do-i-install-virtualenv}
-4. [Diff betn conda and virtual environments]{https://code.visualstudio.com/docs/python/environments}
+    1. [Conda error => Need to install Anaconda]{https://stackoverflow.com/questions/44515769/conda-is-not-recognized-as-internal-or-external-command}
+    2. [Virtual env can be crated using pipenv, virtualenv, venev]{https://www.activestate.com/products/python/pip-tools/pip-install-virtualenv/#how-do-i-install-virtualenv}
+    3. [Creating venv using conda and pip difference]{https://www.activestate.com/products/python/pip-tools/pip-install-virtualenv/#how-do-i-install-virtualenv}
+    4. [Diff betn conda and virtual environments]{https://code.visualstudio.com/docs/python/environments}
