@@ -82,8 +82,8 @@
 83.
 84. Time Module
 85.
-86.
-87.
+86. Walrus Operator
+87. Shutil Module
 88. Use of win32com.client module for audio of statements to be executed  -  EX. 09
     1. [Conda error => Need to install Anaconda]{https://stackoverflow.com/questions/44515769/conda-is-not-recognized-as-internal-or-external-command}
     2. [Virtual env can be crated using pipenv, virtualenv, venev]{https://www.activestate.com/products/python/pip-tools/pip-install-virtualenv/#how-do-i-install-virtualenv}
