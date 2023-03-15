@@ -90,3 +90,4 @@
     3. [Creating venv using conda and pip difference]{https://www.activestate.com/products/python/pip-tools/pip-install-virtualenv/#how-do-i-install-virtualenv}
     4. [Diff betn conda and virtual environments]{https://code.visualstudio.com/docs/python/environments}
     5. [How to install pipenv]{https://stackoverflow.com/questions/46041719/windows-reports-error-when-trying-to-install-package-using-pipenv}
+89. Exercise 09
