@@ -139,10 +139,15 @@ e7.info()
 
 e8 = emp("lm", 2)
 emp.raise_amt = 500
+e8.Employee_Count = 100
 e8.info()
-# Name of employee is lm and their YOE is 2. Now total number of employees are 22
+# Name of employee is lm and their YOE is 2. Now total number of employees are 100
 # Raise amt 3000 and company name Twitter
 
+e9= emp("lmm", 22)
+e9.info()
+# Name of employee is lmm and their YOE is 22. Now total number of employees are 23
+# Raise amt 3000 and company name Twitte
 
 # 1.
 #If class and instance variable changes are made thr' instance of class that change would be applicable to only that instance, change would be temperory.
@@ -153,3 +158,8 @@ e8.info()
 #If class and instance variable changes are made thr' class name then 
 # only class variable change would be updated permanently to all new instance of class. # e.g e4, e5, e6, e7
 # And instace variable never get updated thr' class name, neither permanently nor temperory # e.g e8
+
+#3.
+
+# Instace => instace and class variable values temperory
+# Class => class values permanetly
